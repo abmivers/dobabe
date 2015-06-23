@@ -51,12 +51,12 @@ shield_on = false;
 shield_id = noone;
 shield_cost = 1; //Each step
 
-vida = 500000;
-vida_maxima = 500000;
+vida = 500;
+vida_maxima = 500;
 vida_regen = 1; //Per step
 
-mana = 100000;
-mana_maximo = 100000;
+mana = 100;
+mana_maximo = 100;
 mana_regen = 0.5;
 
 nivel = 1;
