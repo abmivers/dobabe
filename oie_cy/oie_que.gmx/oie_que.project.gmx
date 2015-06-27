@@ -99,10 +99,21 @@
       <sprite>sprites\render_2</sprite>
     </sprites>
     <sprite>sprites\sprite36</sprite>
+    <sprite>sprites\portal</sprite>
+    <sprite>sprites\pusa</sprite>
+    <sprite>sprites\spr_tocaLava</sprite>
+    <sprite>sprites\spr_plataforma</sprite>
+    <sprite>sprites\spr_platforma</sprite>
+    <sprite>sprites\subportal</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
+    <background>background\fondo_cueva</background>
+    <background>background\background5</background>
+    <background>background\background6</background>
+    <background>background\background7</background>
+    <background>background\background8</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -133,6 +144,9 @@
       <object>objects\obj_mid_plat</object>
       <object>objects\obj_right_plat</object>
       <object>objects\obj_left_plat</object>
+      <object>objects\obj_plataforma</object>
+      <object>objects\obj_colicionplay</object>
+      <object>objects\obj_platfor1b</object>
     </objects>
     <object>objects\obj_player</object>
     <object>objects\obj_enemy</object>
@@ -160,9 +174,13 @@
     <objects name="HUD">
       <object>objects\obj_slot</object>
     </objects>
+    <object>objects\obj_portal</object>
+    <object>objects\obj_tocasLava</object>
+    <object>objects\obj_subportal</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_test</room>
+    <room>rooms\cueva</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
