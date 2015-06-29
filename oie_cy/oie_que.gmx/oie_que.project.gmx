@@ -98,9 +98,7 @@
       <sprite>sprites\render_1</sprite>
       <sprite>sprites\render_2</sprite>
     </sprites>
-    <sprite>sprites\sprite36</sprite>
     <sprite>sprites\portal</sprite>
-    <sprite>sprites\pusa</sprite>
     <sprite>sprites\spr_tocaLava</sprite>
     <sprite>sprites\spr_plataforma</sprite>
     <sprite>sprites\spr_platforma</sprite>
@@ -114,6 +112,13 @@
     <background>background\background6</background>
     <background>background\background7</background>
     <background>background\background8</background>
+    <background>background\desierto</background>
+    <background>background\blokdesierto</background>
+    <background>background\fondoElflechador</background>
+    <background>background\vacioagua</background>
+    <background>background\agaabajo</background>
+    <background>background\ultimo_nivel</background>
+    <background>background\ultimo</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -181,6 +186,12 @@
   <rooms name="rooms">
     <room>rooms\rm_test</room>
     <room>rooms\cueva</room>
+    <room>rooms\room3</room>
+    <room>rooms\BatallaSol</room>
+    <room>rooms\penultimo</room>
+    <room>rooms\penultimob</room>
+    <room>rooms\room8</room>
+    <room>rooms\room7</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
