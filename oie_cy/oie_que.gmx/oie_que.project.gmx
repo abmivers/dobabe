@@ -190,8 +190,8 @@
     <room>rooms\BatallaSol</room>
     <room>rooms\penultimo</room>
     <room>rooms\penultimob</room>
-    <room>rooms\room8</room>
     <room>rooms\room7</room>
+    <room>rooms\room8</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

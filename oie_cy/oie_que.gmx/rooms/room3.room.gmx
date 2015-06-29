@@ -172,7 +172,6 @@
     <instance objName="obj_mid_plat" x="2048" y="96" name="inst_C9E37FCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mid_plat" x="2080" y="96" name="inst_EE10F959" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mid_plat" x="2112" y="96" name="inst_3F43F50E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mid_plat" x="288" y="96" name="inst_4D2D3857" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mid_plat" x="352" y="288" name="inst_CBFF13F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mid_plat" x="288" y="288" name="inst_B0A669A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mid_plat" x="320" y="288" name="inst_80E1C015" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -377,6 +376,7 @@
     <instance objName="obj_enemy" x="928" y="96" name="inst_B1AD9C6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy" x="512" y="32" name="inst_7E442B76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy" x="320" y="192" name="inst_443A0A5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_player" x="96" y="32" name="inst_3BD208DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background0" x="64" y="96" w="32" h="32" xo="0" yo="0" id="10000002" name="inst_C25795FB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
